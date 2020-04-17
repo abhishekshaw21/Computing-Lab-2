@@ -1,4 +1,4 @@
-Requirement:Python(3.6 or above)
+Requirement: Python(3.6 or above)
 Make sure the files are present in Data folder
 --------------------------------------------------------------------------------
 Running All Queries using makefile:
