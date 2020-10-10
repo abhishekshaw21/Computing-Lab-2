@@ -1,0 +1,6 @@
+-- Name: Abhishek Shaw
+-- Roll No.: 19CS60R48
+-- Question 1:Find the most productive month for supplier company named “Leka Trading” in year 2013.
+-- Output
+
+Leka Trading MAY 4688.00

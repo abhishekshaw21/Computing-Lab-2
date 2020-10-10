@@ -1,0 +1,2 @@
+run:
+	((python3 mapper.py file1.txt |sort -n|python3 combiner.py);( python3 mapper.py file2.txt | sort -n|python3 combiner.py);(python3 mapper.py file3.txt | sort -n|python3 combiner.py; ))|sort -n|python3 reducer.py > result.txt

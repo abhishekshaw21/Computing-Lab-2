@@ -1,0 +1,15 @@
+Requirement:Python(3.6 or above)
+Make sure the input files are present inside this folder where mapper, reducer and combiner are present
+________________________________________________________________________________
+
+Running Queries using makefile:
+command: $ make
+________________________________________________________________________________
+Q1)(D-B-C+A) × E
+is computed using the 3 files.
+file1.txt
+file2.txt
+file3.txt
+________________________________________________________________________________
+Developed and Tested on:
+MacBook Air
